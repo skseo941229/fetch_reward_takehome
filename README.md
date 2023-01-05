@@ -6,7 +6,7 @@ python test_receipt.py
 ```
 
 API Explanation (/app/api.py)
-1. Process Receipts
+1. Process Receipts 
 This API takes a JSON receipt and returns a JSON object with an ID.
 
 2. Get Points
